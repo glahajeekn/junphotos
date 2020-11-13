@@ -1,0 +1,24 @@
+{
+  "name": "potohos",
+  "version": "1.0.0",
+  "description": "Photohos Cloud",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp-imagemin": "^7.1.0",
+    "imagemin-pngquant": "^9.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glahajeekn/junphotos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glahajeekn/junphotos/issues"
+  },
+  "homepage": "https://github.com/glahajeekn/junphotos#readme"
+}
